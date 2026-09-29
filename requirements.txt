@@ -1,0 +1,2 @@
+# No external packages needed: this project uses only the Python standard library
+# (json, os, datetime, unittest). You do not need to run pip install.
